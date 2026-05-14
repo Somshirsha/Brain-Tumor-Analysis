@@ -19,7 +19,7 @@ The primary objective of the project is to investigate whether MRI-visible tumor
 # Radiogenomic Summary Framework
 
 <p align="center">
-  <img src="C:\Users\Somshir saha\Downloads\image.png" width="100%">
+  <img src="image.png" width="100%">
 </p>
 
 ---
