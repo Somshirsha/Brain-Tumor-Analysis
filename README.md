@@ -23,7 +23,7 @@ The primary objective of the project is to investigate whether MRI-visible tumor
 </p>
 
 ---
-
+## Executable link : https://somshirsha.github.io/Brain-Tumor-Analysis/
 # Project Objectives
 
 - Develop a deep learning framework for brain tumor MRI classification.
